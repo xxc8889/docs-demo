@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   // base: "/docs-demo/",
-  head: [["link", { rel: "icon", href: "docs-demo/logo.jpg" }]],
+  head: [["link", { rel: "icon", href: "logo.jpg" }]],
   title: "天成集团",
   description: "A VitePress Site",
   themeConfig: {
