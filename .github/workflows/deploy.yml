@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 # 设置tokenn访问权限
-permissions: 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
+permissions: 
   contents: read
   pages: write
   id-token: write
